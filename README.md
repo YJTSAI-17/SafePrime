@@ -14,7 +14,7 @@ B is the SHA512 of the string: “TSAI, YI-JU From Taichung, Taiwan, Republic of
 
 Then, SP is a Safe Prime. <br>
 
-And the [PDF](./docs/SAFEPRIME-32768-WITH-MULTITSA.pdf) was signed with some Trusted Timestamps. It can prove that the Safe Prime Number was found before the timestamps was created. You can use Adobe Acrobat to verify it.
+And the [PDF](./docs/SAFEPRIME-32768-WITH-MULTITSA.pdf) was signed with some Trusted Timestamps. It can prove that the Safe Prime Number was found before the timestamps was created. You can use Adobe Acrobat (It is Free to use) to verify it.
 
 ## Verify timestamps of the pdf
 
