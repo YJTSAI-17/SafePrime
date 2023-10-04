@@ -1,0 +1,23 @@
+This txt file is for the purpose of proving that the numbers were generated later than 30 August 2023 at 16:26:00 UTC.
+Bitcoin Block 805,472
+HASH 000000000000000000043afece52a7b3280bff1b1c550987536d5be7ec814ab7
+Mined on August 30, 2023 15:55:46 (UTC)
+
+Bitcoin Block 805,473
+HASH 00000000000000000004f02d752255f27d2473fcb338ff452568ed9be45bfd73
+Mined on August 30, 2023 16:26:03 (UTC)
+
+https://apnews.com/article/indias-moon-mission-finds-chemicals-a0f5b3c91fd71c2a3ae573d4048a5d05
+https://web.archive.org/web/20230829215324/https://apnews.com/article/indias-moon-mission-finds-chemicals-a0f5b3c91fd71c2a3ae573d4048a5d05
+India’s moon rover confirms sulfur and detects several other elements near the lunar south pole
+NEW DELHI (AP) — India’s moon rover confirmed the presence of sulfur and detected several other elements near the lunar south pole as it searches for signs of frozen water nearly a week after its historic moon landing, India’s space agency said Tuesday.
+The rover’s laser-induced spectroscope instrument also detected aluminum, iron, calcium, chromium, titanium, manganese, oxygen and silicon on the lunar surface, the Indian Space Research Organization, or ISRO, said in a post on its website.
+The lunar rover had come down a ramp from the lander of India’s spacecraft after last Wednesday’s touchdown near the moon’s south pole. The Chandrayan-3 Rover is expected to conduct experiments over 14 days, the ISRO has said.
+The rover also will study the moon’s atmosphere and seismic activity, ISRO Chairman S. Somnath said.
+On Monday, the rover’s route was reprogrammed when it came close to a 4-meter-wide (13-foot-wide) crater. “It’s now safely heading on a new path,” the ISRO said.
+The craft moves at a slow speed of around 10 centimeters (4 inches) per second to minimize shock and damage to the vehicle from the moon’s rough terrain.
+After a failed attempt to land on the moon in 2019, India last week joined the United States, the Soviet Union and China as only the fourth country to achieve this milestone.
+The successful mission showcases India’s rising standing as a technology and space powerhouse and dovetails with the image that Prime Minister Narendra Modi is trying to project: an ascendant country asserting its place among the global elite.
+The mission began more than a month ago at an estimated cost of $75 million.
+India’s success came just days after Russia’s Luna-25, which was aiming for the same lunar region, spun into an uncontrolled orbit and crashed. It would have been the first successful Russian lunar landing after a gap of 47 years. Russia’s head of the state-controlled space corporation Roscosmos attributed the failure to the lack of expertise due to the long break in lunar research that followed the last Soviet mission to the moon in 1976.
+Active since the 1960s, India has launched satellites for itself and other countries, and successfully put one in orbit around Mars in 2014. India is planning its first mission to the International Space Station next year, in collaboration with the United States.
