@@ -1,4 +1,7 @@
 # A 32768 bit Safe Prime Number!
+## What is Safe Prime Number?
+
+See [here](https://en.wikipedia.org/wiki/Safe_and_Sophie_Germain_primes)
 
 ## The Cost
 
@@ -15,6 +18,22 @@ B is the SHA512 of the string: “TSAI, YI-JU From Taichung, Taiwan, Republic of
 Then, SP is a Safe Prime. <br>
 
 And the [PDF](./docs/SAFEPRIME-32768-WITH-MULTITSA.pdf) was signed with some Trusted Timestamps. It can prove that the Safe Prime Number was found before the timestamps was created. You can use Adobe Acrobat (It is Free to use) to verify it.
+
+## Other Safe Prime Number
+
+The following numbers are also Safe Prime Numbers.
+
+1. (A * (2 ^ 512) + B) * (2 ^ (32768 - 1024)) + FLOOR(Pi * (2 ^ (32768 - 1028))) + 977330979;
+2. (A * (2 ^ 512) + B) * (2 ^ (24576 - 1024)) + FLOOR(Pi * (2 ^ (24576 - 1028))) + 544145466;
+3. (A * (2 ^ 512) + B) * (2 ^ (16384 - 1024)) + FLOOR(Pi * (2 ^ (16384 - 1028))) + 236733719;
+4. (A * (2 ^ 512) + B) * (2 ^ (12288 - 1024)) + FLOOR(Pi * (2 ^ (12288 - 1028))) + 50292397;
+5. (A * (2 ^ 512) + B) * (2 ^ (8192 - 1024)) + FLOOR(Pi * (2 ^ (8192 - 1028))) + 9516212;
+6. (A * (2 ^ 512) + B) * (2 ^ (6144 - 1024)) + FLOOR(Pi * (2 ^ (6144 - 1028))) + 636231;
+7. (A * (2 ^ 512) + B) * (2 ^ (4096 - 1024)) + FLOOR(Pi * (2 ^ (4096 - 1028))) + 31960034;
+8. (A * (2 ^ 512) + B) * (2 ^ (3072 - 1024)) + FLOOR(Pi * (2 ^ (3072 - 1028))) + 3612998;
+9. (A * (2 ^ 512) + B) * (2 ^ (2048 - 1024)) + FLOOR(Pi * (2 ^ (2048 - 1028))) + 7786197;
+10. (A * (2 ^ 512) + B) * (2 ^ (1536 - 1024)) + FLOOR(Pi * (2 ^ (1536 - 1028))) + 9086642.
+
 
 ## Verify timestamps of the pdf
 
